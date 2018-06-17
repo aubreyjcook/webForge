@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  border: 1em solid white;
+  padding: 1em;
+}
+
+header {
+
+}
+
+header figure {
+
+}
+
+header figcaption {
+
+}
+
+nav {
+
+}
+
+nav ul {
+
+}
+
+main {
+
+}
+
+main section {
+
+}
+
+footer {
+
+}
+
+.grid-item {
+  border: 1px solid white;
+}
